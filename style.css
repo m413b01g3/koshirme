@@ -638,7 +638,7 @@ dialog{padding:24px}
 .knowledge-pair{margin-top:1vh}
 
 :root{--display:'Golos Text','Arial',sans-serif;--numbers:'Unbounded','Golos Text','Arial',sans-serif}
-.cover-title{font-size:clamp(56px,12vw,198px);font-weight:800;line-height:1.02;letter-spacing:-.02em}
+.cover-title{font-size:clamp(56px,min(12vw,19vh),198px);font-weight:800;line-height:1.02;letter-spacing:-.02em}
 .slide-title{font-weight:700;letter-spacing:-.035em}
 .sample-number,.stat-number,.practice-number,.price-value{font-family:var(--numbers)}
 .ratio-callout>span,.route-result>strong{font-family:var(--numbers)}
